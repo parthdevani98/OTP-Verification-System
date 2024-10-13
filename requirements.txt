@@ -2,5 +2,8 @@
 
 # Python version
 python>=3.6
+tkinter
+smtplib
+email
 
 # No additional libraries are needed for this project as it uses standard libraries.
