@@ -21,3 +21,37 @@ To run this project, ensure you have Python 3.x installed on your machine. Follo
    ```bash
    git clone https://github.com/your_username/OTP-Verification-System.git
    cd OTP-Verification-System
+   
+2. Install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+
+## Requirements
+
+Create a requirements.txt file with the following content.
+
+tkinter
+smtplib
+email
+
+Note: tkinter is included in the standard Python library, but it may need to be installed separately on some systems.
+
+
+## Usage
+1. Open the terminal and navigate to the project directory.
+2. Run the application:
+   ```bash
+   python main.py
+
+3. Enter your email address and click "Send OTP."
+4. Check your email for the OTP and enter it in the application.
+5. Click "Submit OTP" to verify.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/parthdevani98/OTP-Verification-System/blob/main/LICENSE) file for details.
+
+
+
+
+    
