@@ -1,0 +1,6 @@
+# Requirements for OTP Verification System
+
+# Python version
+python>=3.6
+
+# No additional libraries are needed for this project as it uses standard libraries.
